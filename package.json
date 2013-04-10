@@ -1,0 +1,17 @@
+{
+  "name": "karicomi",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "connect": "~2.7.4",
+    "connect_router": "~1.8.7"
+  }
+}
